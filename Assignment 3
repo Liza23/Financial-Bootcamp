@@ -1,0 +1,50 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+
+\title{Financial Bootcamp\\Assignment 3}
+\author{Liza Dahiya}
+\date{May 2020}
+\begin{document}
+
+% \pagecolor{black}
+% \color{white}
+
+\maketitle
+\textbf{\large Porters' 5 forces Analysis of Passenger vehicle Industry}
+\begin{enumerate}
+    \item \textbf{Intensity of competitive rivalry} \par
+    The small car market in India is very competitive with players like \textbf{Maruti Suzuki, Tata Motors, Hyundai} etc. which was pretty much dominated by \textbf{Maruti}. But with launch of \textbf{Nano} the 1 lakh car the whole momentum of the market has shifted. Now to be competitive in market other companies have to either slash rates of their existing model or have to go back to the drawing board and build again.\par 
+    There exists \textbf{intense product war} in the Indian car market with \textbf{minimal differentiation} as almost every player offers one or more products in the defined segments which leaves the industry worse off. 
+    
+    \item \textbf{Threats of new entrants} \par
+    The existing loyalty to major brands, incentives for using a particular buyer, higher fixed costs, scarcity of resources, high costs of switching companies, and government regulations constituted the barriers to entry which in turn reduce the competition in an industry. Some major barriers are listed below:
+    \begin{itemize}
+        \item Economies of Scale and Capital requirement as an enormous amount of capital is required.
+        \item Brand identity, Product Differentiation and Customer Switching Costs
+        \item Other factors like access to raw material, technology and distribution channel
+        \item Government policies and protection for the sector
+    \end{itemize}
+    
+    
+    
+    
+    \item \textbf{Threat of substitutes} \par
+    The threat to a car manufacturer is not just that a customer would buy a different brand of car but they also need to consider the likelihood of a potential customer taking the alternative modes of transport including bus, train or airplane to their destination. The higher the cost of operating a vehicle, the more likely people will seek alternative transportation options. \par
+    As far as the scenario of travel industry in India is concerned, rail and air travel comprise of 10 per cent of the total passenger travel and rest \textbf{90 per cent} of passenger travel is undertaken by roads (World Bank, 2013). And this share of road travel encompass 72 per cent of two-wheelers, \textbf{14 per cent} of passenger vehicles including cars, jeeps and taxis and rest 14 of other public transport busses and non-passenger vehicles (Govt. of India, 2011). \par
+    The biggest and ever emerging \textit{available substitute} for passenger cars is the \textbf{two-wheeler segment}, which has grown from 8 per cent at the time of independence to the whopping 72 per cent in the present scenario. 
+    
+    \item \textbf{Bargaining Power of Suppliers} \par
+    The automobile industry is considered to be highly Capital and Labor intensive as the major part of the cost of production include wage bills of labor; material costs including that of steel, aluminum, dashboards, seats, tires etc.; and intensive advertising and market research activities. \par
+    As far as \textbf{number of suppliers in Indian automotive industry} is concerned, there are more than 500 auto component manufacturers in the organized sector which are largely represented by the Automotive Components Manufacturer’s Association of India - ACMA apart from other 5000 manufacturers in the unorganized sector which caters to the domestic market demand and also export a significant share of its output. \par
+    As far as the \textbf{contribution of suppliers in cost and quality of the product} is concerned, it is significant in the automobile sector, but with the alternatives available to the manufacturers ranging from the large number of domestic suppliers to globally available sources which have excelled in the technology over the years it does not extends the bargaining power to the suppliers in the industry. \par
+    
+    Thus, on the aspect of the bargaining power of suppliers in the Indian automobile industry, based on the noteworthy dependence of the component suppliers on the domestically growing industry and a downturn in the economies globally on one hand and the alternatives available with the manufacturers for the sourcing component ranging from domestic to global suppliers on the other, it may be concluded that the overall bargaining power with the suppliers in the present Indian automobile scenario is either moderate or low.
+    
+    \item \textbf{Bargaining Power of Buyers}\par
+     In the automobile industry with \textbf{low switching costs} involved and since most of the brands are new in the market except from the few established ones, the \textbf{brand loyalty} aspect does not impact much, and thus the manufacturers are continuously challenged to bring out more efficient and quality vehicles at the lowest possible costs. Apart from that the manufacturers have to incur a significant amount on the market research at the time of development and on advertising and promotion at the time of launch and sale of the product, which constitutes a large part of the overall cost of the product. \par
+     
+     The \textbf{relationship} between the car industry and its buyers or purchasers of finished vehicles, the power axis is tipped towards the consumers. The Consumers enjoys the greatest power in this relationship due to the fairly standardized nature of the commodity and the low switching costs associated with selecting from among competing brands. However, the automotive industry remains marginally powerful due to the large customer to producer ratio.
+\end{enumerate}
+
+\end{document}
